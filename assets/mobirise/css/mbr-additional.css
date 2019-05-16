@@ -1797,17 +1797,6 @@ body {
   padding-bottom: 75px;
   background-image: url("../../../assets/images/gidrorez-2-2000x1426.jpg");
 }
-.cid-rqkthbkrAU {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #767676;
-}
-.cid-rqkthbkrAU .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-rqkthbkrAU .mbr-section-subtitle DIV {
-  color: #ffffff;
-}
 .cid-rqDeeJwMHb {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1835,7 +1824,7 @@ body {
 .cid-rqDeeJwMHb table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #cccccc;
+  border: 1px solid #767676;
   margin-bottom: 0;
 }
 .cid-rqDeeJwMHb table th {
@@ -1844,14 +1833,14 @@ body {
   border-bottom: none;
 }
 .cid-rqDeeJwMHb table th:hover {
-  background: #cccccc;
-  color: #000000;
+  background: #767676;
+  color: #ffffff;
 }
 .cid-rqDeeJwMHb table td {
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #767676;
 }
 .cid-rqDeeJwMHb table.table {
-  background: #ffffff;
+  background: #b2ccd2;
 }
 .cid-rqDeeJwMHb .dataTables_filter {
   text-align: right;
